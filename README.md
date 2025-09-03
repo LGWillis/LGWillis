@@ -24,6 +24,7 @@ I'm a junior at the University of Rio Grande pursuing a bachelor's degree in com
 - 📚 I just recently obtained my Comptia A+ certification! I hope to eventually obtain the CCNA certification, although right now, I'm more focused on improving my coding skills.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/lukeruru)
 <!--
 **LGWillis/LGWillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
