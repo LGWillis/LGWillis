@@ -23,8 +23,13 @@ I'm a junior at the University of Rio Grande pursuing a bachelor's degree in com
 - 🍪 🍰 One of my favorite hobbies is cooking. My specialties are my chocolate chip cookies and tiramisu.
 - 📚 I just recently obtained my Comptia A+ certification! I hope to eventually obtain the CCNA certification, although right now, I'm more focused on improving my coding skills.
 
+### Finally, now that I have your attention 😏 
+Have A Laugh! Also, check out what I'm currently listening to on Spotify!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/lukeruru)
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lukeruru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=4e7eb1)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **LGWillis/LGWillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
